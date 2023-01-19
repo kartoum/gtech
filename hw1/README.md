@@ -1,4 +1,4 @@
-# gtech
+# Georgia Tech : HomeWork #1
 Repository for Georgia Tech's code development assignments
 
 Get image from docker repo
