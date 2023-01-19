@@ -15,13 +15,13 @@ docker run -p 8888:8888 --name notebook {YOUR_LOCAL_FOLDER}:/home/jovyan/work -e
 
 Access your image with the url at the end of the docker run command (please use WSL or Terminal)
 
-Put both files from this repo at /work forlder 
+Put both files from this repo at /work folder 
 
-HW1 Header SP22.ipynb
-credit_card_data-headers.txt
+1. ```HW1 Header SP22.ipynb```
+2. ```credit_card_data-headers.txt```
 
 Otherwise you can just view the results here in gitlab
 
 Thanks, any question
 
-karto@gatech.edu
+```karto@gatech.edu```
