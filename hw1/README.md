@@ -20,7 +20,7 @@ Put both files from this repo at /work folder
 1. ```HW1 Header SP22.ipynb```
 2. ```credit_card_data-headers.txt```
 
-Otherwise you can just view the results here in gitlab
+Otherwise you can just view the results [here](https://github.com/kartoum/gtech/blob/main/hw1/HW1%20Header%20SP22.ipynb) in gitlab
 
 Thanks, any question
 
